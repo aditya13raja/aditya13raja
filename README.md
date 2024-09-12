@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya13raja" alt="aditya13raja" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix-GPt](https://github.com/aditya13raja/netflix-clone)
+- 🔭 I’m currently working on [Real Estate Marketplace](https://github.com/aditya13raja/Real-State-Marketplace)
 
 - 🌱 I’m currently learning **Express and Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya13raja](https://github.com/aditya13raja)
 
-- 💬 Ask me about **react, css, scss, bootstrap, tailwind**
+- 💬 Ask me about **react, css, scss, bootstrap, tailwind, expressjs, crud-operation in mongodb**
 
 - 📫 How to reach me **aditya13raja@gmail.com**
 
