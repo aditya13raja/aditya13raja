@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya13raja](https://github.com/aditya13raja)
 
-- 💬 Ask me about **react, css, scss, bootstrap, tailwind, expressjs, crud-operation in mongodb**
+- 💬 Ask me about **react, css, scss, bootstrap, tailwind, expressjs, mongodb, firebase**
 
 - 📫 How to reach me **aditya13raja@gmail.com**
 
